@@ -125,7 +125,7 @@ public class AuthController {
 </br>
 
 
-## 6. yml 설정
+## 6. 실행을 위한 yml 설정
 ~~~java
 server:
   port: 8080
